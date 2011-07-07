@@ -1,0 +1,6 @@
+{
+    cards_allowed:{},
+    first_draw:0,
+    draw_number:0,
+    card_powers:[]
+}
