@@ -1,0 +1,28 @@
+{
+    "cards_allowed":{
+        "suits":[
+            "ACE","TWO","THREE","FOUR","FIVE","SIX","SEVEN","EIGHT","NINE","TEN","JACK","QUEEN","KING","JOKER"
+        ],
+        "types":"ALL"
+    },
+    "first_draw":"5",
+    "draw_number":"1",
+    "card_powers":[
+        "ACE","TWO","THREE","FOUR","FIVE","SIX","SEVEN","EIGHT","NINE","TEN","JACK","QUEEN","KING"
+    ],
+    "special_cards":[
+
+    ],
+    "draw_rules":[
+
+    ],
+    "put_down_rules":[
+        "SAME_SUIT",
+        "SAME_TYPE",
+        "CARD_ACE",
+        "CARD_JOKER"
+    ],
+    "win_conditions":{
+        "cards_in_hand":"0"
+    }
+}
